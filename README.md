@@ -1,4 +1,5 @@
 # LFNet + A-RAHT: High-Precision and Real-time Micro-hole Circle Detection for Industrial Inspection
 The method is an effective framework specifically designed for high-precision micro-hole circle detection, addressing challenges such as lighting variations, edge blurring, and multi-scale apertures that are commonly encountered in real-world industrial inspection. This work has been submitted to IEEE Transactions on Circuits and Systems for Video Technology and is currently under peer review.
-﻿
+
+ 
 Due to confidentiality agreements with the China Academy of Space Technology (CAST) and China Yangtze Power Co., Ltd. (CYPC), the complete source code and dataset cannot be made publicly available at this stage. Nevertheless, upon formal acceptance of the paper and subject to institutional approval, we plan to release partial inference scripts and key configuration details to support reproducibility and adoption in industrial practice.
